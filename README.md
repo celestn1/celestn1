@@ -61,6 +61,8 @@ I'm looking to collaborate on:
 🔗 [LinkedIn](https://www.linkedin.com/in/celestine-ntadi-736501133/)  
 📁 [GitHub](https://github.com/celestn1)
 
+✍️ Follow my learning journey on [Medium](https://medium.com/@celestn)
+
 ---
 
 ### 💻 Tech Stack  
