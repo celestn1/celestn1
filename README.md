@@ -51,7 +51,7 @@ I'm looking to collaborate on:
 
 ---
 
-### 📫 Let’s Connect  
+### 🌐 Socials 
 [LinkedIn](https://www.linkedin.com/in/celestine-ntadi-736501133/) | [Email](mailto:contactilec@gmail.com)
 
 📩 Feel free to explore my repositories or reach out for a tech chat!
@@ -62,7 +62,7 @@ I'm looking to collaborate on:
 `AWS` `GCP` `Azure` `Terraform` `CloudFormation` `Docker`  
 `Kubernetes` `PowerShell` `Python` `GitHub Actions` `Jenkins`  
 `Datadog` `GitHub` `Okta` `Google Workspace` `MongoDB` `Jira`
-
+`OpenShift`
 ---
 
 ### 📊 GitHub Stats  
