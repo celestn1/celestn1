@@ -25,11 +25,12 @@ Currently transitioning into **DevOps and Cloud Engineering**, I’m passionate 
 ---
 
 ### 🏅 Certifications  
-- AWS Certified Cloud Practitioner *(in view)*  
-- Microsoft Certified Solutions Expert (MCSE)  
-- ITIL v3 Foundation  
-- Cisco Certified Network Associate (CCNA)  
-- 5G Cloud & Virtualization (Telefocal Asia)
+<p> 
+  <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-In_View-F7A81B?style=flat&logo=amazonaws&logoColor=white" alt="AWS Certified Cloud Practitioner - In View" />
+  <img src="https://img.shields.io/badge/Microsoft_MCSE-0078D4?style=flat&logo=microsoft&logoColor=white" alt="Microsoft MCSE" /> 
+  <img src="https://img.shields.io/badge/ITIL_v3_Foundation-602C50?style=flat&logo=itil&logoColor=white" alt="ITIL v3 Foundation" /> 
+  <img src="https://img.shields.io/badge/CCNA-1D63ED?style=flat&logo=cisco&logoColor=white" alt="Cisco Certified Network Associate" /> 
+  <img src="https://img.shields.io/badge/5G_Cloud_&_Virtualization-000000?style=flat&logo=5g&logoColor=white" alt="5G Cloud and Virtualization" /> </p>
 
 ---
 
