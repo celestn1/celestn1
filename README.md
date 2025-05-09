@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m Celestine Ntadi</h1>
 
 <p align="center">
-  <a href="mailto:contactilec@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:decelestn@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/celestine-ntadi-736501133/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
@@ -57,7 +57,7 @@ I'm looking to collaborate on:
 ---
 
 ### 🌐 Socials  
-📫 [Email Me](mailto:contactilec@gmail.com)  
+📫 [Email Me](mailto:decelestn@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/celestine-ntadi-736501133/)  
 📁 [GitHub](https://github.com/celestn1)
 
