@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I’m Celestine Ntadi</h1>
+<h1 align="center">Hi, I’m Celestine</h1>
 
 <p align="center">
   <a href="mailto:decelestn@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
