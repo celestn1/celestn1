@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m Celestine Ntadi</h1>
+<h1 align="center">Hi, I’m Celestine Ntadi</h1>
 
 <p align="center">
   <a href="mailto:decelestn@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -7,7 +7,7 @@
 
 ---
 
-### 🚀 About Me  
+### About Me  
 I am a **Cloud & Infrastructure Engineer** with a strong foundation in IT operations, enterprise tooling, and hybrid infrastructure. With professional experience supporting 2nd and 3rd line operations across high-demand environments, I focus on enabling reliability, automation, and scale through DevOps and cloud-native practices.
 
 Currently transitioning into **DevOps and Cloud Engineering**, I’m passionate about building resilient systems using modern CI/CD, container orchestration, and infrastructure-as-code frameworks.
