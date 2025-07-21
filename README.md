@@ -9,7 +9,7 @@
 ---
 
 ### About Me  
-I am a **DevOps and Cloud Engineering** with a strong foundation in IT operations, enterprise tooling, and hybrid infrastructure. With professional experience supporting 2nd and 3rd line operations across high-demand environments, I focus on enabling reliability, automation, and scale through DevOps and cloud-native practices.
+I am a **DevOps and Cloud Engineer** with a strong foundation in IT operations, enterprise tooling, and hybrid infrastructure. With professional experience supporting 2nd and 3rd line operations across high-demand environments, I focus on enabling reliability, automation, and scale through DevOps and cloud-native practices.
 
 I’m passionate about building resilient systems using modern CI/CD, container orchestration, and infrastructure-as-code frameworks.
 
